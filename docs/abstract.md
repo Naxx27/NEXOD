@@ -1,8 +1,6 @@
 # NEXOD – Abstract  
 🇬🇧 [*(This document is available in English, German and Russian.)*](#-english-abstract)
-
 🇩🇪 [*(Dieses Dokument ist auf Englisch, Deutsch und Russisch verfügbar.)*](#-deutsches-abstract)
-
 🇷🇺 [*(Этот документ доступен на английском, немецком и русском языках.)*](#-русский-abstract) 
 
 ---
