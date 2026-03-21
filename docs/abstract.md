@@ -1,7 +1,7 @@
 # NEXOD – Abstract  
-*(This document is available in English, German and Russian.)*  
-*(Dieses Dokument ist auf Englisch, Deutsch und Russisch verfügbar.)*  
-*(Этот документ доступен на английском, немецком и русском языках.)*
+🇬🇧 *(This document is available in English, German and Russian.)*  
+🇩🇪 *(Dieses Dokument ist auf Englisch, Deutsch und Russisch verfügbar.)*  
+🇷🇺 *(Этот документ доступен на английском, немецком и русском языках.)*
 
 ---
 
