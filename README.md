@@ -65,7 +65,7 @@ Strict hardware‑level separation of memory, devices, interrupts, and DMA.
 
 All documents are located in the `docs/` directory:
 
-- [Abstract](docs/abstract.md)  
+- [Abstract](docs/abstract.md) ✅
 - [Architecture Overview](docs/architecture_overview.md)  
 - [Boot Process](docs/boot_process.md)  
 - [CPU Model](docs/nexod_cpu_model.md)  
@@ -155,7 +155,7 @@ Strikte hardwarebasierte Trennung von Speicher, Geräten, Interrupts und DMA.
 
 Alle Dokumente befinden sich im Ordner `docs/`:
 
-- [Abstract](docs/abstract.md)  
+- [Abstract](docs/abstract.md) ✅
 - [Architekturübersicht](docs/architecture_overview.md)  
 - [Boot‑Prozess](docs/boot_process.md)  
 - [CPU‑Modell](docs/nexod_cpu_model.md)  
@@ -245,7 +245,7 @@ NEXOD заменяет традиционную цепочку BIOS/UEFI.
 
 Все документы находятся в каталоге `docs/`:
 
-- [Abstract](docs/abstract.md)  
+- [Abstract](docs/abstract.md) ✅
 - [Architecture Overview](docs/architecture_overview.md)  
 - [Boot Process](docs/boot_process.md)  
 - [CPU Model](docs/nexod_cpu_model.md)  
