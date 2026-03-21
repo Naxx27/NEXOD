@@ -3,7 +3,7 @@
 
 🇩🇪 [*(Dieses Dokument ist auf Englisch, Deutsch und Russisch verfügbar.)*](#-deutsches-abstract)
 
-🇷🇺 [*(Этот документ доступен на английском, немецком и русском языках.)*](#-русский-abstract) 
+🇷🇺 [*(Этот документ доступен на английском, немецком и русском языках.)*](#-русский-abstract)
 
 ---
 
