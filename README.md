@@ -1,8 +1,8 @@
 # NEXOD – Next‑Gen Operating System Device
 
-🇬🇧 This README is available in English, German and Russian.  
-🇩🇪 Diese README ist auf Englisch, Deutsch und Russisch verfügbar.  
-🇷🇺 Этот README доступен на английском, немецком и русском языках.
+🇬🇧 [This README is available in English, German and Russian.](#-english-version)
+🇩🇪 [Diese README ist auf Englisch, Deutsch und Russisch verfügbar.](#-deutsche-version)
+🇷🇺 [Этот README доступен на английском, немецком и русском языках.](#-русская-версия)
 
 ---
 
